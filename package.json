@@ -1,0 +1,30 @@
+{
+  "name": "tools-crypto-pack",
+  "version": "1.0.0",
+  "description": "tools pack",
+  "engines": {
+    "node": ">=6.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elizabeth520/tools-pack"
+  },
+  "keywords": [
+    "tools",
+    "serialization",
+    "binary",
+    "pack"
+  ],
+  "bugs": {
+    "url": "https://github.com/Elizabeth520/tools-pack/issues"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "homepage": "https://github.com/Elizabeth520/tools-pack#readme",
+  "license": "MIT"
+}
